@@ -74,3 +74,39 @@ var language3 = function() {
         console.log("c")
 
 }
+//////////////////////////////////////////////////
+//EP4
+
+var z = 2 ;
+
+func1();
+func2();
+
+console.log(z);
+
+function func1(){
+    var z = 4 ;
+    console.log(z);
+}
+
+function func2(){
+    var z = 6 ;
+    console.log(z);
+}
+///////////////////////////////////////////////////////
+function name1(){
+    var firstName = "sahar" ;
+    console.log(firstName);
+}
+name2();
+name1();
+
+var firstName="zahra";
+
+function name2(){
+    var firstName = "hana" ;
+    console.log(firstName);
+}
+
+
+console.log(firstName);
