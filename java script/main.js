@@ -110,3 +110,17 @@ function name2(){
 
 
 console.log(firstName);
+
+//////////////////////////////////////////////////////
+//EP5
+let myLastName="jalilvand";
+let myFirstName="Sahar";
+console.log(myLastName);
+console.log(myFirstName);
+
+var age = () =>{
+    number=50;
+    console.log(number);
+
+};
+age()

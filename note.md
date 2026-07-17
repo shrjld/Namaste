@@ -30,3 +30,30 @@ return
 EP4
 
 هر تابع قلمرو خود را دارد 
+
+EP5
+
+window === this
+
+اگر در ادیتور کدی ننویسیم باز هم کارهای در پشت صحنه انجام می شود 
+global execution content , global space 
+به وجود می آید 
+
+global space  را کجا می بینیم ؟
+در تب sources
+
+در scope
+
+متغیر ها و توابع سراسری در window  وحود دارند
+و جز global space 
+
+اما برای مثال تایعی که درون تایعی دیگری وجود دارد اینطور نیست local
+
+این سه با هم برابرند
+console.log(a)
+console,log(window.a)
+console.log(this.a)
+
+البته اگر متغیر ما یک متغیر global باشد 
+
+
