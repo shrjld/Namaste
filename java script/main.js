@@ -188,6 +188,30 @@ function testNamasteEx1() {
 // testNamasteEx2();
 testNamasteEx1();
 
+/////////////////////////////////////////////////////////
 
+//EP8
+console.log(testvar);
+var testvar = 10 ;
 
+// console.log(testlet);
+let testlet = 11;
+
+// console.log(testconst);
+const testconst = 12;
+///////////////////////
+//var, let
+
+let b = 8;
+// let b =9;
+console.log(b);
+
+var c = 8;
+var c =9;
+console.log(c);
+//////////////////////////
+
+let t ;
+var u;
+// const i;
 
